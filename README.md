@@ -31,10 +31,12 @@ Information is automatically deleted after 2 weeks.
 
 ## Jobs Database
 
+Information is automatically deleted after 1 month. 
+
 ### Submit Your Job
 
-- TODO
+- https://forms.gle/Tim7KzTijUDfpxgF8
 
 ### View Jobs Database
 
-- TODO
+- https://docs.google.com/spreadsheets/d/18D5I8QWWaUrkdG5_de3jIk8bVvMqaHd6mcq6ZVToSv8/edit?usp=sharing
